@@ -1,0 +1,364 @@
+[
+	{
+		"umur" : 21,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "tambun",
+		"pendidikan" : "smk",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 25,
+		"berat_badan" : "ideal",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "ideal",
+		"pendidikan" : "sma",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "ideal",
+		"pendidikan" : "sma",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 25,
+		"berat_badan" : "kurus",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "tambun",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "tambun",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "kurus",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "kurus",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "kurus",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "kurus",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "kurus",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "kurus",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 23,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "ideal",
+		"pendidikan" : "smk",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "kurus",
+		"pendidikan" : "sma",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 24,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "tambun",
+		"pendidikan" : "smk",
+		"tinggi" : "ideal",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 23,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "kurus",
+		"pendidikan" : "smk",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "kurus",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+
+
+	{
+		"umur" : 23,
+		"berat_badan" : "kurus",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "ideal",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "ideal",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 23,
+		"berat_badan" : "kurus",
+		"pendidikan" : "smk",
+		"tinggi" : "kt",
+		"kesehatan" : "tidak_sehat",
+		"status": 0
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "ideal",
+		"pendidikan" : "smk",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 23,
+		"berat_badan" : "kurus",
+		"pendidikan" : "sma",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 24,
+		"berat_badan" : "kurus",
+		"pendidikan" : "smk",
+		"tinggi" : "st",
+		"kesehatan" : "tidak_sehat",
+		"status": 0
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "tambun",
+		"pendidikan" : "sma",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status": 0
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"kesehatan" : "sehat",
+		"status": 0
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "kurus",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "ideal",
+		"pendidikan" : "sma",
+		"tinggi" : "ideal",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "kurus",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 22,
+		"berat_badan" : "kurus",
+		"pendidikan" : "sma",
+		"tinggi" : "ideal",
+		"kesehatan" : "tidak_sehat",
+		"status": 0
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "kt",
+		"kesehatan" : "tidak_sehat",
+		"status": 0
+	},
+	{
+		"umur" : 21,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 20,
+		"berat_badan" : "ideal",
+		"pendidikan" : "s1",
+		"tinggi" : "st",
+		"kesehatan" : "tidak_sehat",
+		"status": 1
+	}
+]
