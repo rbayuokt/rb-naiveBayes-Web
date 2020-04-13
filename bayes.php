@@ -1,11 +1,4 @@
 <?php
-/*
-KELOMPOK    : 1
-ANGGOTA     : RIZKY BAYU OKTAVIAN < 3411161124 >
-              RAYZHA RAKA PUTRA < 3411161109 >
-              IKA RAHMAH PUTRI  < 3411161094 >
-*/
-
 class Bayes
 {
   private $pegawai = "data.json";
